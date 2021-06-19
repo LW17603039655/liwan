@@ -14,7 +14,7 @@
 # Package Files #
 *.jar
 *.war
-*.nar
+*.nar1010
 *.ear
 *.zip
 *.tar.gz
